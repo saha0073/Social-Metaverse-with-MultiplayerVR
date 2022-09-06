@@ -2,7 +2,7 @@
 
 Would it not be awesome to watch your favorite movie with your friends in the metaverse?
 
-![title-pic](https://github.com/saha0073/VRChat-Room-for-Oculus-with-Unity3D/blob/main/VRChat_home_Scene.PNG)
+![title-pic](https://github.com/saha0073/Social-Metaverse-with-MultiplayerVR/blob/main/outdoor_screeshot.png)
 Created this MultiplayerVR social metaverse, similar to the popular AltspaceVR app in VR headsets.
 
 ## Techniques Used:
