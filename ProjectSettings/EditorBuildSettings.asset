@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/IRONHEAD Games/Scenes/LoginScene.unity
+    guid: b3049d4882a276f4dbae81c84962e9ed
+  - enabled: 1
+    path: Assets/IRONHEAD Games/Scenes/HomeScene.unity
+    guid: 66249e54836b48a42acadcc57da3e448
+  - enabled: 1
+    path: Assets/IRONHEAD Games/Scenes/World_Outdoor.unity
+    guid: 5041d70b592f91c4c8b6824c2ef6484f
+  - enabled: 1
+    path: Assets/IRONHEAD Games/Scenes/World_School.unity
+    guid: b72244336204212439510723e69fa9f9
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 824120d03e9689842bbac31ce410cc71, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0679d7c50897b1442bd2fbc6eb19a5a7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d5ad261904847a54a99800bea4cf5ba3, type: 2}
