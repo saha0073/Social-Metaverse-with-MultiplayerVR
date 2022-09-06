@@ -12,7 +12,7 @@ Created this MultiplayerVR social metaverse, similar to the popular AltspaceVR a
 * Multiplayer features: Photon multiplayer, Photon voice, RPC calls, avatar selection
 
 ## Recording of the social metaverse in Quest2
-The `./Recordings` folder contains several recordings during the gameplay, like as shown below
+The `./Recordings` folder contains several recordings during the gameplay.
 
 ## To run the Unity application
 * Clone the repo and open the project in Unity 2020.3.36
