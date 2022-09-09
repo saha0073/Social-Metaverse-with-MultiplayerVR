@@ -17,7 +17,9 @@ Integrated video streaming, which can facilitate watching movies together in mul
 
 ## Recording of the social metaverse in Quest2
 The `./Recordings` folder contains several recordings during the gameplay. Below is a demo of watching Batman Dark Knight in the metaverse with Oculus VR!
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://github.com/saha0073/Social-Metaverse-with-MultiplayerVR/blob/main/Recordings/outdoor_school_movie.mp4)
 
 ## To run the Unity application
 * Clone the repo and open the project in Unity 2020.3.36
