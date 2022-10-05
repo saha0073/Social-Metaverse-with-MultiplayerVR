@@ -5,7 +5,7 @@ Would it not be awesome to watch your favorite movie with your friends in the me
 ![title-pic](https://github.com/saha0073/Social-Metaverse-with-MultiplayerVR/blob/main/outdoor_screeshot.png)
 Created this MultiplayerVR social metaverse, similar to the popular Bigscreen VR app in VR headsets.
 
-Besides 3D rendering, if there is one most essential feature of the metaverse, it should be multiplayer. Used Photon PUN, which is probably the most popular Unity package for implementing the multiplayer feature. It lets you see the avatar of your friends, interact with objects, and also allows you to talk with Photon voice 
+Besides 3D rendering, if there is one most essential feature of the metaverse, it should be multiplayer. Used Photon PUN, which is probably the most popular Unity package for implementing the multiplayer feature. It lets you see the avatar of your friends, interact with objects, and also allows you to talk with Photon voice. 
 
 Integrated video streaming, which can facilitate watching movies together in multiplayer mode. It can also be used as college metaverse for attending live lectures with fellow students.
 
