@@ -15,10 +15,10 @@ Integrated video streaming, which can facilitate watching movies together in mul
 * Packages: LightShaft, XR Interaction Toolkit, Photon 
 * Multiplayer features: Photon multiplayer, Photon voice, RPC calls, avatar selection
 
-## Recording of the social metaverse in Quest2
-The `./Recordings` folder contains several recordings during the gameplay. Below is a demo of watching Batman Dark Knight in the metaverse with Oculus VR!
+## Demo of the social metaverse
+The `./Recordings` folder contains several recordings during the gameplay. You can check the following youtube video below which shows a demo of watching Batman Dark Knight in the metaverse with Oculus VR!
 
-<p align="center"><img src="https://github.com/saha0073/Social-Metaverse-with-MultiplayerVR/blob/main/Recordings/outdoor_school_gif.gif" style="width:80%"\></p>
+[![Watch the video](https://yt-embed.live/embed?v=QoodnSm9AeU)](https://www.youtube.com/watch?v=QoodnSm9AeU "Watch the video")
 
 ## To run the Unity application
 * Clone the repo and open the project in Unity 2020.3.36
